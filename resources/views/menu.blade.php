@@ -1,0 +1,31 @@
+<!--awal menu NAVBAR-->
+<div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div>
+            <ul class="navbar-nav">
+                <li clas="nav-item">
+                    <a class="nav-link" href="/home">Home</a>
+                </li>
+
+                <li clas="nav-item">
+                    <a class="nav-link" href="/buku">Data Buku</a>
+                </li>
+
+                <li clas="nav-item">
+                    <a class="nav-link" href="/anggota">Data Anggota</a>
+                </li>
+
+                <li clas="nav-item">
+                    <a class="nav-link" href="/petugas">Data Petugas</a>
+                </li>
+
+                <li clas="nav-item">
+                    <a class="nav-link" href="/pinjam">Data Peminjaman</a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+</div>
+<!--akhir menu NAVBAR-->               
+               
